@@ -11,15 +11,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="49" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="49" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="49" alt="intellijidea logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="49" alt="eclipseide logo"  />
 </div>
 
 ###
