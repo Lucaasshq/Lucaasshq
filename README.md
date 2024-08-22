@@ -13,8 +13,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />
-  <img width="1" />
   <img src="https://skillicons.dev/icons?i=postman" height="49" alt="postman logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=flutter" height="49" alt="flutter logo"  />
