@@ -24,9 +24,13 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="49" alt="eclipseide logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=maven" height="49" alt="apachemaven logo"  />
-  
+  <img width="1" />
+  <img src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000" height="49" alt="apachemaven logo"  />
   <div align="right">
-
+  <div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="49" alt="postgresql logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=git" height="49" alt="git logo"  />
 <h2 align="left">Stats</h2>
 
 ###
