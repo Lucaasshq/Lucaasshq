@@ -40,9 +40,10 @@
 
 <h3 align="center">contact: lucashenriquebarros2016@gmail.com</h3>
 
-<div align="center"
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucaasshq.Lucaasshq&left_text=Visitas"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucaasshq.Lucaasshq&left_text=Visitas" />
 </div>
+
 
 ###
 
