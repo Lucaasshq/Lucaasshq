@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Estudante de Tecnologia em Análise e desenvolvimento de Sistemas - IFRN (Instituto Federal do Rio Grande do Norte)</h3>
+<h3 align="left">Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas - IFRN (Instituto Federal do Rio Grande do Norte)</h3>
 
 ###
 
