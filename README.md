@@ -38,13 +38,9 @@
 
 ###
 
+<h3 align="center">contact: lucashenriquebarros2016@gmail.com</h3>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-henrique-057176211/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-<div align="left">
+<div align="center"
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucaasshq.Lucaasshq&left_text=Visitas"  />
 </div>
 
