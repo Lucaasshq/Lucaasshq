@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs for back end 🛠</h2>
+<h2 align="left">Techs for back-end 🛠</h2>
 
 ###
 
