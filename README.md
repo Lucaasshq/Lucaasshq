@@ -41,6 +41,3 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=maven" height="49" alt="apachemaven logo"  />
   <img width="1" /> -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucaasshq.Lucaasshq&left_text=Visitas" />
-</div>
