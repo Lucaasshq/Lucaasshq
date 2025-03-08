@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs for back-end 🛠</h2>
+<h2 align="left">Techs for Back-End 🛠</h2>
 
 ###
 
@@ -26,14 +26,26 @@
   <br>
   <br>
 
+<!-- <h2 align="left">Techs for Front-End 🛠</h2>
 
-<!-- <h2 align="left">Techs for full-stack 🛠</h2>
-<div align="left">
+###
 
-<img src="https://github.com/user-attachments/assets/cded1d6d-c5f9-4aa6-a27f-de382ba5e5be" height="49" alt="java EE"  />
-<img src="https://github.com/user-attachments/assets/d6ff87ec-3ef9-4c2a-a8b7-18f67eaa72b2" height="49" alt="jsf"  />
-<img src="https://github.com/user-attachments/assets/fee207f4-a924-4a1f-9dea-f81ef846657d" height="49" alt="jboss"  />
-<img src="https://github.com/user-attachments/assets/7036e004-5911-426e-8da6-2c46c8f0293b" height="49" alt="prime faces"  /> -->
+- <div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="49" alt="postgresql logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=git" height="49" alt="git logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=idea" height="49" alt="intellijidea logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=maven" height="49" alt="apachemaven logo"  />
+  <img width="1" /> -->
+  <br>
+  <br>
+
 
 <h2 align="left">Stats</h2>
 
