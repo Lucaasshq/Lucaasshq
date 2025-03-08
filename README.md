@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas - IFRN (Instituto Federal do Rio Grande do Norte)</h3>
+<h4 align="left">Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas - IFRN (Instituto Federal do Rio Grande do Norte)</h4>
 
 ###
 
-<h2 align="left">Techs for Back-End 🛠</h2>
+<h4 align="left">Techs for Back-End 🛠</h4>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
